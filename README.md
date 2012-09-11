@@ -16,7 +16,7 @@ The code can be found on bitbucket: http://bitbucket.org/diefenbach/django_workf
 ## Implementations
 
 If you want to see a comprehensive implementation of django-workflows take
-a look at the CMS `LFC <http://pypi.python.org/pypi/django-lfc>`_
+a look at the CMS [LFC](http://pypi.python.org/pypi/django-lfc)
 
 
 ## Changes
