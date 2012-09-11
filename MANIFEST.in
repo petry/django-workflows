@@ -1,4 +1,4 @@
-include README.txt
+include README.md
 include LICENSE.txt
 recursive-include workflows/locale *
 recursive-include workflows/templates *
